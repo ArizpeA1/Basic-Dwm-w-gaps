@@ -5,8 +5,9 @@ My Fork of dwm, added gaps, colors and some minor modifications, to change this 
 # Notes
 
 i use xcompmgr for composting and opacity and for the terminal i use urxvt. 
+And for the Wallpaper i use feh
 
-My .xinit file and .Xresources file is also downloaded from this repo
+My .xinitrc file and .Xresources file is also downloaded from this repo, and down below you can find some help if .Xresources isn't being read
 
 
 # Dependencies
@@ -32,3 +33,13 @@ To use dwm edit the .xinit file and put
         exec dwm
         
 And you're done, I hope you like it
+This is a fork of https://suckless.org/ so make sure to go an check their website out.
+
+# .xinitrc and .Xresources
+
+Just copy them to the home directory of your user and modify them to your needs
+Then if you want to use the .Xresources file you need to make sure you run in your .xinitrc
+
+   xrdb -merge ~/.Xresources
+   
+If you are using my .xinitrc file you dont need to worry about it
