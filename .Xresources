@@ -1,0 +1,17 @@
+URxvt*termName: rxvt
+URxvt.font: xft:Noto Sans Mono:size=12
+URxvt.buffered:         true
+URxvt.background:       black
+URxvt.foreground:       red
+URxvt.cursorColor:      green
+URxvt.underlineColor:   red
+URxvt.scrollBar:    False
+URxvt.perl-ext:         default,matcher
+URxvt.urlLauncher:      /usr/bin/firefox
+URxvt.matcher.button:   1 
+URxvt.transparent:    True
+URxvt.shading:        50
+
+## When done to take effect  run this xrdb -merge ~/.Xresources
+## or xrdb ~/.Xresources
+
