@@ -8,10 +8,20 @@ For debian and debian based distros:
     sudo apt install make gcc libx11-dev libxft-dev libxinerama-dev xorg
     
 # Install
-First we clone this 
+First clone this repo
     
     git clone https://github.com/ArizpeA1/Basic-Dwm-w-gaps.git
    
-Then we descompress the files
+Then we descompress the files downloaded
 
     tar xf dwmSamothAD.tar.gz 
+
+cd to the decompressed directory and if you want to modify anything just edit the config.h file else go ahead an compile it with
+    
+        sudo make clean install
+        
+To use dwm edit the xinit file and put
+
+        exec dwm
+        
+And you're done, I hope you like it
