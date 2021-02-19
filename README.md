@@ -1,3 +1,4 @@
+# Disclamer: This is just a fork of dwm from https://suckless.org/, patched with "Fullgaps" and "Colorbar"
 # Basic-Dwm-w-gaps
 My Fork of dwm, added gaps, colors and some minor modifications, to change this go to config.h
 
