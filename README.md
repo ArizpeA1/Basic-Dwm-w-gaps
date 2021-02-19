@@ -25,7 +25,15 @@ My .xinitrc file and .Xresources file is also downloaded from this repo, and dow
 For debian and debian based distros:
 
     sudo apt install make gcc libx11-dev libxft-dev libxinerama-dev xorg
-    
+  
+# Other
+Recomended
+
+- Feh
+- Ranger
+- xcomprmgr
+- urxvt
+
 # Install
 First clone this repo
     
