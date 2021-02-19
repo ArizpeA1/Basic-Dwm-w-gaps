@@ -6,6 +6,8 @@ My Fork of dwm, added gaps, colors and some minor modifications, to change this 
 
 ![](images/immagengitajsl.jpg)
 
+![](images/dwmimage2.jpg)
+
 
 # Notes
 
