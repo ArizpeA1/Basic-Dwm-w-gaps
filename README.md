@@ -29,6 +29,7 @@ For debian and debian based distros:
 # Other
 Recomended
 
+- Dmenu
 - Feh
 - Ranger
 - xcomprmgr
