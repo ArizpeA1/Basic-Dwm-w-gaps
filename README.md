@@ -47,3 +47,7 @@ Then if you want to use the .Xresources file you need to make sure you run in yo
         xrdb -merge ~/.Xresources
    
 If you are using my .xinitrc file you dont need to worry about it
+
+# Screenshots
+
+![](images/immagengitajsl.jpg
