@@ -24,7 +24,7 @@ My .xinitrc file and .Xresources file is also downloaded from this repo, and dow
 # Dependencies
 For debian and debian based distros:
 
-    sudo apt install make gcc libx11-dev libxft-dev libxinerama-dev xorg
+        sudo apt install make gcc libx11-dev libxft-dev libxinerama-dev xorg
   
 # Other
 Recomended
@@ -37,11 +37,11 @@ Recomended
 # Install
 First clone this repo
     
-    git clone https://github.com/ArizpeA1/Basic-Dwm-w-gaps.git
+        git clone https://github.com/ArizpeA1/Basic-Dwm-w-gaps.git
    
 Then we descompress the files downloaded
 
-    tar xf dwmSamothAD.tar.gz 
+        tar xf dwmSamothAD.tar.gz 
 
 cd to the decompressed directory and if you want to modify anything just edit the config.h file else go ahead an compile it with
     
