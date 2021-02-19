@@ -44,6 +44,6 @@ This is a fork of https://suckless.org/ so make sure to go an check their websit
 Just copy them to the home directory of your user and modify them to your needs
 Then if you want to use the .Xresources file you need to make sure you run in your .xinitrc
 
-   xrdb -merge ~/.Xresources
+        xrdb -merge ~/.Xresources
    
 If you are using my .xinitrc file you dont need to worry about it
