@@ -50,4 +50,4 @@ If you are using my .xinitrc file you dont need to worry about it
 
 # Screenshots
 
-![](images/immagengitajsl.jpg
+![](images/immagengitajsl.jpg)
