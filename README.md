@@ -2,6 +2,11 @@
 # Basic-Dwm-w-gaps
 My Fork of dwm, added gaps, colors and some minor modifications, to change this go to config.h
 
+# Notes
+
+i use xcompmgr for composting and opacity and for the terminal i use urxvt
+
+
 # Dependencies
 For debian and debian based distros:
 
@@ -20,7 +25,7 @@ cd to the decompressed directory and if you want to modify anything just edit th
     
         sudo make clean install
         
-To use dwm edit the xinit file and put
+To use dwm edit the .xinit file and put
 
         exec dwm
         
