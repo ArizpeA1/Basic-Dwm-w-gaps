@@ -4,7 +4,9 @@ My Fork of dwm, added gaps, colors and some minor modifications, to change this 
 
 # Notes
 
-i use xcompmgr for composting and opacity and for the terminal i use urxvt
+i use xcompmgr for composting and opacity and for the terminal i use urxvt. 
+
+My .xinit file and .Xresources file is also downloaded from this repo
 
 
 # Dependencies
