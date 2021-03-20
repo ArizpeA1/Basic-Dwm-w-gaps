@@ -42,7 +42,7 @@ First clone this repo
    
 Then we descompress the files downloaded
 
-        tar xf dwmSamothAD.tar.gz 
+        tar xf dwm.tar.gz 
 
 cd to the decompressed directory and if you want to modify anything just edit the config.h file else go ahead an compile it with
     
