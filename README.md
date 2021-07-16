@@ -4,9 +4,9 @@ My Fork of dwm, added gaps, colors and some minor modifications, to change this 
 
 # Screenshots
 
-![](images/screendwm3.png)
-
 ![](images/screendwm4.png)
+
+![](images/screendwm5.png)
 
 
 # Notes
