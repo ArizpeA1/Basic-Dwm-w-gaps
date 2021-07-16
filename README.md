@@ -14,7 +14,7 @@ My Fork of dwm, added gaps, colors and some minor modifications, to change this 
 i use xcompmgr for composting and opacity and for the terminal i use urxvt. 
 And for the Wallpaper i use feh with
 
-        feh --bg-scale /full/path/to/image &
+    feh --bg-scale /full/path/to/image &
         
  on the .xinitrc file
 
