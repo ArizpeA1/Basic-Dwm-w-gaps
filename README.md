@@ -4,9 +4,9 @@ My Fork of dwm, added gaps, colors and some minor modifications, to change this 
 
 # Screenshots
 
-![](images/screenDWM1.png)
+![](images/screendwm3.png)
 
-![](images/debbg1.png)
+![](images/screendwm4.png)
 
 
 # Notes
@@ -24,43 +24,39 @@ My .xinitrc file and .Xresources file is also downloaded from this repo, and dow
 # Dependencies
 For debian and debian based distros:
 
-        sudo apt install make gcc libx11-dev libxft-dev libxinerama-dev xorg
+    sudo apt install make gcc libx11-dev libxft-dev libxinerama-dev xorg 
   
 # Other
 Recomended
 
-- Dmenu
-- Feh
-- Ranger
-- xcomprmgr
-- urxvt
+    sudo apt-get install dmenu feh ranger xcomprmgr st
 
 # Install
 First clone this repo
     
-        git clone https://github.com/ArizpeA1/Basic-Dwm-w-gaps.git
+    git clone https://github.com/ArizpeA1/Basic-Dwm-w-gaps.git
    
 Then we descompress the files downloaded
 
-        tar xf dwm.tar.gz 
+    tar xf dwm-0.3.tar.gz 
 
 cd to the decompressed directory and if you want to modify anything just edit the config.h file else go ahead an compile it with
     
-        sudo make clean install
+    sudo make clean install
         
 To use dwm edit the .xinit file and put
 
-        exec dwm
+    exec dwm
         
 And you're done, I hope you like it
 
-This is a fork of https://suckless.org/ so make sure to go an check their website out.
+This is a fork of https://suckless.org/, make sure to go an check their website out.
 
 # .xinitrc and .Xresources
 
 Just copy them to the home directory of your user and modify them to your needs.
 Then if you want to use the .Xresources file you need to make sure you run in your .xinitrc
 
-        xrdb -merge ~/.Xresources
+    xrdb -merge ~/.Xresources
    
 If you are using my .xinitrc file you dont need to worry about it
